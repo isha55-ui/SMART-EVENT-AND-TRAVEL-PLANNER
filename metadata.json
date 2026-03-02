@@ -1,0 +1,5 @@
+{
+  "name": "Smart Event & Travel Planner",
+  "description": "A premium, AI-powered event discovery and travel optimization platform using Google Maps Platform APIs.",
+  "requestFramePermissions": ["geolocation"]
+}
